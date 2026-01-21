@@ -10,6 +10,7 @@ Use of primary keys and foreign keys
 SQL queries and JOIN operations
 
 Technologies Used
+PostgreSQL
 SQL
 
 Project Type
